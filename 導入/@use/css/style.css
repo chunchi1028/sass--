@@ -137,6 +137,10 @@ a {
 .title {
   text-align: center;
 }
+.title h2 {
+  font-family: Ashley_Southine, sans;
+}
 .title h3 {
-  font-family: "LXGW WenKai TC,cursive";
+  font-family: "LXGW WenKai TC", cursive;
+  color: rgba(121, 204, 255, 0.2);
 }

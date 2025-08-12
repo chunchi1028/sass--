@@ -13,10 +13,15 @@ $Deep-Gray:#828486;
 $Charcoal:#393a3a;
 $Back:#0a0a0a;
 
+// alpha
+$alpha-20:0.2;
+$alpha-30:0.3;
+$alpha-40:0.4;
+$alpha-50:0.5;
+
 // font-family
-$family-en: "Ashley_Southine, sans";
-$tc: "LXGW WenKai TC";
-$family-tc:"#{$tc},cursive";
+$family-en: Ashley_Southine, sans;
+$family-tc:"LXGW WenKai TC",cursive;
 
 // font-size
 $f-s-xs: .75rem;

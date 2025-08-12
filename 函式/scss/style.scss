@@ -1,5 +1,6 @@
 @use "reset";
-@use "variables" as v;
+@use "variables" as *;
+@use "function" ;
 
 .title {
     text-align: center;
@@ -11,4 +12,14 @@
         font-family: v.$family-tc;
         color: rgba(v.$primary, v.$alpha-20);
     }
+}
+
+#contact {
+    @extend %flex-center;
+}
+#news {
+    @extend %flex-center;
+}
+.list-box {
+     @extend %flex-center;
 }

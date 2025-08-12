@@ -1,6 +1,5 @@
 @use "reset";
-@use "variables" as v;
-
+@use "variables" as *;
 .title {
     text-align: center;
 
